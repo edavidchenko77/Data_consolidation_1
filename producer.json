@@ -1,0 +1,34 @@
+[
+  {
+    "director_id": "director001",
+    "director_name": "Steven Spielberg"
+  },
+  {
+    "director_id": "director002",
+    "director_name": "Christopher Nolan"
+  },
+  {
+    "director_id": "director003",
+    "director_name": "Quentin Tarantino"
+  },
+  {
+    "director_id": "director004",
+    "director_name": "James Cameron"
+  },
+  {
+    "director_id": "director005",
+    "director_name": "Martin Scorsese"
+  },
+  {
+    "director_id": "director006",
+    "director_name": "Alfred Hitchcock"
+  },
+  {
+    "director_id": "director007",
+    "director_name": "Ridley Scott"
+  },
+  {
+    "director_id": "director008",
+    "director_name": "Peter Jackson"
+  }
+]
